@@ -10,3 +10,5 @@ springboot admin服务监控对接钉钉机器人
 > 3.钉钉官方的说明 https://open-doc.dingtalk.com/microapp/serverapi2/qf2nxq
 >
 > 4.先运行server-demo，然后运行client-demo
+>
+> 需要帮助可以联系QQ：1325386027 (备注钉钉机器人)
